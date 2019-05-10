@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Personal Resume
 
-You can use the [editor on GitHub](https://github.com/feodorren/feodor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Contacts
+- Mobile: +1 805 994 0806
+- Email: feodorren@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal Info
+- Feodor Ren/Male/19940806
+- Bachelor's degree/Xi'an University of Architecture & Technology/Electrical Engineering & Automation
+- Working Years: 3 years
 
-### Markdown
+### Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Liaoning-EFACEC Electrical Equipment Co., Ltd. China(LEEEC) (From 2016 July till now)
+LEEEC is a manufacturing company of HV power transformers and mobile substations. It was a sino-portugal company with EFACEC Portugal. In 2009, LEEEC started their business in international electric EPC works, for example, power plants, substations.
 
-```markdown
-Syntax highlighted code block
+**Position** 
+Department Manager/Project Manager
 
-# Header 1
-## Header 2
-### Header 3
+**Scope of Work** 
+1. International sales man of power transformer and mobile substation. Prepare quotations for international bidders.
+2. Project manager for international epc works, including project feasible anylazing, bidding documents preparation of both qualifications & technical parts, prcie caculations.
+3. Marketing developement. Nigotiate with main partners and clients. Find new opportunites and overseas local partner.
 
-- Bulleted
-- List
+**Particular Projects**
+1. Uganda new 132kV AIS substation and extension project.
+2. Zambia 002 004 132kV Substations series projects.
+3. Ethiopia 25 nos 230kV Mobile substation project.
+4. Iraq 8 nos 33kV Mobile substation project.
+5. Syrian 4 nos 230kV Mobile substation project.
+6. Solomon islands 33kV and 66kV upgrade project.
 
-1. Numbered
-2. List
+### My Words
 
-**Bold** and _Italic_ and `Code` text
+With passion in international business, I have good negotiation skills and execution ability. Avalible to handle business in communications, clients negotiation, bidding documents preparations. In the past 3 years, i have gotten to know more friends in marketing and saving much experience in bidding stage.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/feodorren/feodor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Thanks for your reviewing and hope we can work together.**
