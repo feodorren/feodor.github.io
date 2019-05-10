@@ -19,8 +19,8 @@ Department Manager/Project Manager
 
 **Scope of Work** 
 1. International sales man of power transformer and mobile substation. Prepare quotations for international bidders.
-2. Project manager for international epc works, including project feasible study, bidding documents preparation of both qualifications & technical parts, prcie caculations.
-3. Marketing developement. Nigotiate with main partners and clients. Find new opportunites and overseas local partner.
+2. Project manager for international epc works, including project feasible study, bidding documents preparation of both qualifications & technical parts, price caculations.
+3. Marketing development manager. Negotiate with main partners and clients. Find new opportunities and overseas local partner.
 
 **Particular Projects**
 1. Uganda new 132kV AIS substation and extension project.
@@ -32,7 +32,8 @@ Department Manager/Project Manager
 
 ### My Words
 
-With passion in international business, I have good negotiation skills and execution ability. Avalible to handle business in communications, clients negotiation, bidding documents preparations. In the past 3 years, i have gotten to know more friends in marketing and saving much experience in bidding stage.
+With passion in international business, I have good negotiation skills and execution ability. Able to handle business in communications, clients negotiation, bidding documents preparation. In the past 3 years, I have gotten to know more friends in marketing and saving much experience in bidding stage.
 
+### Thanks
 
 **Thanks for your reviewing and hope we can work together.**
