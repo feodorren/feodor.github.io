@@ -1,5 +1,4 @@
-# Feodor Ren
-## Personal Resume
+## Feodor Ren
 
 ### Contacts
 - Mobile: +1 805 994 0806
