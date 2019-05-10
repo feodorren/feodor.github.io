@@ -1,3 +1,4 @@
+# Feodor Ren
 ## Personal Resume
 
 ### Contacts
@@ -27,7 +28,7 @@ Department Manager/Project Manager
 2. Zambia 002 004 132kV Substations series projects.
 3. Ethiopia 25 nos 230kV Mobile substation project.
 4. Iraq 8 nos 33kV Mobile substation project.
-5. Syrian 4 nos 230kV Mobile substation project.
+5. Syria 4 nos 230kV Mobile substation project.
 6. Solomon islands 33kV and 66kV upgrade project.
 
 ### My Words
@@ -36,4 +37,4 @@ With passion in international business, I have good negotiation skills and execu
 
 ### Thanks
 
-**Thanks for your reviewing and hope we can work together.**
+Thanks for your viewing and hope we can work together. Please feel free to contact me if any.
