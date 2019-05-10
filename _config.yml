@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: RESUME
 show_downloads: false
-is_project_page: false
+Github:
+  is_project_page: false
