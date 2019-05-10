@@ -19,7 +19,7 @@ Department Manager/Project Manager
 
 **Scope of Work** 
 1. International sales man of power transformer and mobile substation. Prepare quotations for international bidders.
-2. Project manager for international epc works, including project feasible anylazing, bidding documents preparation of both qualifications & technical parts, prcie caculations.
+2. Project manager for international epc works, including project feasible study, bidding documents preparation of both qualifications & technical parts, prcie caculations.
 3. Marketing developement. Nigotiate with main partners and clients. Find new opportunites and overseas local partner.
 
 **Particular Projects**
