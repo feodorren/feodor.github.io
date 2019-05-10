@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: RESUME
 show_downloads: false
-show_view: false
+is_project_page: false
